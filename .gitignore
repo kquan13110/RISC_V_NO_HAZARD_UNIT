@@ -1,0 +1,11 @@
+# Bỏ qua toàn bộ thư mục work của QuestaSim
+sim/work/
+work/
+
+# Bỏ qua các file log, project và dạng sóng trong thư mục sim
+sim/*.wlf
+sim/*.mpf
+sim/*.mti
+*.wlf
+transcript
+*.vstf
